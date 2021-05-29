@@ -1,5 +1,13 @@
-#<h1 align="center">Hi 👋, I'm Eduardo Campili</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Eduardo Campili</h1>
+<h2 align="center">Full Stack Developer</h2>
+
+
+<h3 align="center">"What have you learned today?"</h3>
+
+<div align="left">My main phrase, and being pro-active, has led me to have extensive experience in different areas.
+My current training includes React, Redux, Node, Express, Postgres. among other technologies on the market</div>
+
+<div padding-top="50">
 
 - 🔭 I’m currently working on **Henry Gadgets**
 
@@ -8,6 +16,7 @@
 - 💬 Ask me about **react,react-redux,javascript,node.js,express.js**
 
 - 📫 How to reach me **eduardo.campili@gmail.com**
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
